@@ -1,11 +1,11 @@
-# Hi there, I'm Netanel Landesman 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=landsboy&label=Profile%20views&color=0e75b6&style=flat" alt="landsboy" />
+# Hi there, I'm Netanel Landesman 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=landsboy&label=Profile%20views&color=0e75b6&style=flat" alt="landsboy" /> <\p>
 
 ## 👨🏻‍💻 About Me:
 🔭 MSc researcher and algorithm developer in the field of Bioinformatics and cancer immunotherapy at Erez levanon's labs, BIU.<br>🌱 I love learning new technologies, and deepening my knowledge of technologies I already know<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/netanel-landesman/) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dor.gff)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/netanel-landesman/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dor.gff)
 
 ## 💻 Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
