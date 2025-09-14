@@ -1,7 +1,7 @@
 # Hi there, I'm Netanel Landesman 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=landsboy&label=Profile%20views&color=0e75b6&style=flat" alt="landsboy" /> </p>
 
 ## 👨🏻‍💻 About Me:
-🔭 MSc researcher and algorithm developer in the field of Bioinformatics and cancer immunotherapy at Erez levanon's labs, BIU.<br>🌱 I love learning new technologies, and deepening my knowledge of technologies I already know<br>
+🔭 Data Scientist and Machine Learning Researcher at Dexoligo Therapeutics by Dexcel Pharma.<br>🌱 I love learning new technologies, and deepening my knowledge of technologies I already know<br>
 <br/>
 
 ## 🌐 Socials:
